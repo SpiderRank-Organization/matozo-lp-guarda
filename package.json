@@ -1,0 +1,15 @@
+{
+  "name": "matozo-lp3",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Landing Page 3 — Matozo & Espinosa Advocacia (Advogado de Família)",
+  "scripts": {
+    "dev": "vite --host --port 5175 --open",
+    "build": "vite build",
+    "preview": "vite preview --port 4175"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
